@@ -24,3 +24,4 @@ if (znaleziona == 1){
 }
 if (znaleziona == 0){
 	window.alert("Nie znaleźliśmy szukanej, nie ma jej w tablicy.")
+}
